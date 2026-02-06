@@ -385,6 +385,43 @@ Landing Screen
 
 ---
 
+## App Display Demonstrations 
+### Landing - Auth - Logout display
+<img width="1919" height="887" alt="Screenshot 2026-02-06 200941" src="https://github.com/user-attachments/assets/5ebeeeef-371c-4387-9616-5d09a307d007" />
+
+---
+
+### Friends Recommendation display
+<img width="1919" height="904" alt="Screenshot 2026-02-06 200948" src="https://github.com/user-attachments/assets/d6e9b036-7ebb-4298-abfa-cbaf84c0ea64" />
+
+---
+
+### Share Images - History display
+<img width="1919" height="895" alt="Screenshot 2026-02-06 201346" src="https://github.com/user-attachments/assets/4a6920bb-9718-4ad6-803c-2b0bba0e8d71" />
+
+---
+### Personal Image Gallery - Profile Settings display
+<img width="1919" height="894" alt="Screenshot 2026-02-06 201356" src="https://github.com/user-attachments/assets/ecc861f9-4beb-438e-bb8a-2364fad52e81" />
+
+
+---
+### Text messages display
+<img width="1919" height="904" alt="Screenshot 2026-02-06 201404" src="https://github.com/user-attachments/assets/ee58dd2e-48e8-45a1-91bd-a264212eb716" />
+
+---
+
+### Upload text images display
+<img width="1919" height="930" alt="Screenshot 2026-02-06 201418" src="https://github.com/user-attachments/assets/c535655f-d2f3-4139-9e46-63c73446cb39" />
+
+
+---
+
+### Take text images display
+<img width="1919" height="916" alt="Screenshot 2026-02-06 201429" src="https://github.com/user-attachments/assets/1e822d4d-c9cb-4337-97f6-fb359856eda9" />
+
+
+---
+
 ## API Integration
 
 The application communicates with a backend REST API server (running on `http://10.0.2.2:8000/api` for emulator testing). All API communications use JSON format with proper error handling and timeout management.
@@ -889,6 +926,43 @@ flutter run
 **設定画面**: 通知、プライバシー、セキュリティ、および一般環境設定を含むアプリケーション設定。
 
 **履歴画面**: タイムスタンプ付きの最近の写真、メッセージ、および友達アクティビティを表示するアクティビティタイムライン。
+
+---
+
+## アプリデモンストレーション 
+### ランディング・認証・ログアウト画面
+<img width="1919" height="887" alt="Screenshot 2026-02-06 200941" src="https://github.com/user-attachments/assets/5ebeeeef-371c-4387-9616-5d09a307d007" />
+
+---
+
+### 友達おすすめ画面
+<img width="1919" height="904" alt="Screenshot 2026-02-06 200948" src="https://github.com/user-attachments/assets/d6e9b036-7ebb-4298-abfa-cbaf84c0ea64" />
+
+---
+
+### 画像共有・履歴画面
+<img width="1919" height="895" alt="Screenshot 2026-02-06 201346" src="https://github.com/user-attachments/assets/4a6920bb-9718-4ad6-803c-2b0bba0e8d71" />
+
+---
+### 個人ギャラリー・プロフィール設定画面
+<img width="1919" height="894" alt="Screenshot 2026-02-06 201356" src="https://github.com/user-attachments/assets/ecc861f9-4beb-438e-bb8a-2364fad52e81" />
+
+
+---
+### テキストメッセージ画面
+<img width="1919" height="904" alt="Screenshot 2026-02-06 201404" src="https://github.com/user-attachments/assets/ee58dd2e-48e8-45a1-91bd-a264212eb716" />
+
+---
+
+### テキスト画像アップロード画面
+<img width="1919" height="930" alt="Screenshot 2026-02-06 201418" src="https://github.com/user-attachments/assets/c535655f-d2f3-4139-9e46-63c73446cb39" />
+
+
+---
+
+### テキスト画像撮影画面
+<img width="1919" height="916" alt="Screenshot 2026-02-06 201429" src="https://github.com/user-attachments/assets/1e822d4d-c9cb-4337-97f6-fb359856eda9" />
+
 
 ---
 
